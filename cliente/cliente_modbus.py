@@ -118,3 +118,4 @@ if __name__ == '__main__':
     print(f"  Depois (bit 6 = 0): reg={c.ler_registrador(1328):016b}")
 
     c.desconectar()
+# cliente para bancada de bombeamento
