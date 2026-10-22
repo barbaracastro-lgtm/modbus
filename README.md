@@ -94,3 +94,6 @@ requirements.txt
 servidor/servidor_modbus.py   # servidor e emulação do CLP
 cliente/cliente_modbus.py     # comunicação e conversões
 ```
+## Observações
+
+Foi utilizada IA para escrever nessa aba e conferir alguns erros.
